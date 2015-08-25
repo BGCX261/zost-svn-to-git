@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{399E6980-CBBC-42CF-8AC5-6722BB43C07D}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  <Projects>
+      <Projects Name="ZTOToolsAPI100.bpl">ZTOCL\PRJ\Delphi 10 (Delphi 2006)\ZTOToolsAPI.bdsproj</Projects>
+      <Projects Name="ZTOWin32Rtl100.bpl">ZTOCL\PRJ\Delphi 10 (Delphi 2006)\ZTOWin32Rtl.bdsproj</Projects>
+      <Projects Name="ZTOWin32Db100.bpl">ZTOCL\PRJ\Delphi 10 (Delphi 2006)\ZTOWin32Db.bdsproj</Projects>
+      <Projects Name="ZTOCrypt100.bpl">ZTOCL\PRJ\Delphi 10 (Delphi 2006)\ZTOCrypt.bdsproj</Projects>
+      <Projects Name="ZTORegExp100.bpl">ZTOCL\PRJ\Delphi 10 (Delphi 2006)\ZTORegExp.bdsproj</Projects>
+      <Projects Name="ZTOComponentsWebApiWrappers100.bpl">COMPONENTS\WEBAPIWRAPPERS\PRJ\Delphi 10 (Delphi 2006)\ZTOComponentsWebApiWrappers.bdsproj</Projects>
+      <Projects Name="ZTOComponentsStandard100.bpl">COMPONENTS\STANDARD\PRJ\Delphi 10 (Delphi 2006)\ZTOComponentsStandard.bdsproj</Projects>
+      <Projects Name="ZTOWizardsFormTemplates100.bpl">WIZARDS\FORMTEMPLATES\PRJ\Delphi 10 (Delphi 2006)\ZTOWizardsFormTemplates.bdsproj</Projects>
+      <Projects Name="ZTOComponentsDataControls100.bpl">COMPONENTS\DATACONTROLS\PRJ\Delphi 10 (Delphi 2006)\ZTOComponentsDataControls.bdsproj</Projects>
+      <Projects Name="ZTOFWTests.exe">FWTESTS\PRJ\ZTOFWTests.bdsproj</Projects>
+      <Projects Name="Targets">ZTOToolsAPI100.bpl ZTOWin32Rtl100.bpl ZTOWin32Db100.bpl ZTOCrypt100.bpl ZTORegExp100.bpl ZTOComponentsWebApiWrappers100.bpl ZTOComponentsStandard100.bpl ZTOWizardsFormTemplates100.bpl ZTOComponentsDataControls100.bpl ZTOFWTests.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
